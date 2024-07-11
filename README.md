@@ -1,4 +1,4 @@
-# Maglev IF15 2023/24
+# MagLev IF15 2023/24
 by 
 - [Azhar Moeez](https://stem.elearning.unipd.it/user/profile.php?id=7061) | 2066699
 - [Bellinato Tommaso](https://stem.elearning.unipd.it/user/profile.php?id=3804) | 2032597
