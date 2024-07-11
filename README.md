@@ -6,7 +6,7 @@ by
 
 # Contents of the repository
 In this repo you'll find the files of the IF15 MagLev assignments for the A.Y. 2023-24:
-* [IF15___assignment___2024.pdf] - contains the explanation of the physic behind the maglev and the control system info about the maglev, plus the assignments
+* [IF15___assignment___2024.pdf](/IF15___assignment___2024.pdf) - contains the explanation of the physic behind the maglev and the control system info about the maglev, plus the assignments
 * 2066699_2032597_2066590.mlx - here you'll find our MATLAB solution regarding all the five assignments
 * 2066699_2032597_2066590.pdf - this is the report about our solutions and how we found them
 * solution_template.mlx - contains the template for the MATLAB solution
